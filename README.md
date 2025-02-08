@@ -18,7 +18,7 @@ Immerse yourself in a story where every choice matters. Think strategically, as 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/4lexiiissss/cypher
+   git clone https://github.com/4lexiiissss/CypherSentinels
    ```
 2. Compile the project using `gcc`:
    ```sh
